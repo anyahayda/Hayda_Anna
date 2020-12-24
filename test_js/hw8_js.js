@@ -1,5 +1,6 @@
 const snakeArray = (counter) => {
     const n = 6;
+    const newVar = 125;
     const m = 7;
     let matrixResults = [];
 
